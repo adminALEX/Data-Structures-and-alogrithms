@@ -1,5 +1,5 @@
-package Queue;
- 
+package Queue.Queuebyuser;
+
 public class Main
 {
     public static void main (String[] args)

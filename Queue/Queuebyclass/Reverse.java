@@ -1,4 +1,4 @@
-package Queuebyclass;
+package Queue.Queuebyclass;
 
 import java.util.Queue;
 import java.util.Stack;
