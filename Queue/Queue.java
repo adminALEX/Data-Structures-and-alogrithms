@@ -71,4 +71,17 @@ package Queue;
     public boolean isFull() {
         return (size() == capacity);
     }
+
+    public void display() {
+        int i = 0;
+        if(isEmpty()){
+            System.out.println("Stack is empty");
+            System.exit(-1);
+        }
+        while(i<count)
+        {
+            System.out.println(arr[i]);
+            i++;
+        }
+    }
 }
