@@ -1,5 +1,3 @@
-package Stack;
-
 public class NDStack {
     int[] stack;
     int top = 0;

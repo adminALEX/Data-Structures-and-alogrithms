@@ -1,5 +1,3 @@
-package Stack;
-
 public class Stack{
     public static void main(String[] args) {
         DStack ds = new DStack();
